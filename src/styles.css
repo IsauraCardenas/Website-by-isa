@@ -29,9 +29,7 @@ header {
 }
 
 .logo {
-  font-size: 2em;
-  color: white;
-  user-select: none;
+  width: 150px;
 }
 
 .navigation a {
@@ -65,7 +63,7 @@ header {
 .navigation .button-login-popup {
   width: 130px;
   height: 50px;
-  background: transparent;
+  background: #f5cee0;
   border: 2px solid;
   border: none;
   outline: none;
