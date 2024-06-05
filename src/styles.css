@@ -253,3 +253,8 @@ header {
 .login-register p a:hover {
   text-decoration: underline;
 }
+
+.search {
+  border: none;
+  border-radius: 10px;
+}
